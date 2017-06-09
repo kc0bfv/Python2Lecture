@@ -49,7 +49,9 @@
 
 ## Contents
 LectureCode - code I'm going to use
+
 LectureSlides - one copy of the slides
+
     Slides are also at https://docs.google.com/presentation/d/1cYLoRdTZOiXlZb3N7I1_w5CnA0OrpojxOliz5n1eI3s/edit?usp=sharing
 
 ## Other Links
